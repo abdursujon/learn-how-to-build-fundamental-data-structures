@@ -9,19 +9,19 @@ structures our own way, adding things we wish some data structures had.
 
 0. Arrays
 
-List 
+## List 
 1. ArrayList
 2. LinkedList
 3. DoublyLinkedList
 
-Stack 
+## Stack 
 4. ArrayStack
 5. LinkedListStack
 
 Queue 
-6. Queue
-7. PriorityQueue
-8. ArrayDeque
+- 6. Queue
+- 7. PriorityQueue
+- 8. ArrayDeque
 
 Map 
 9. HashMap
