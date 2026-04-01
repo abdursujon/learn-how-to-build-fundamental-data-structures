@@ -18,28 +18,28 @@ structures our own way, adding things we wish some data structures had.
 4. ArrayStack
 5. LinkedListStack
 
-Queue 
-- 6. Queue
-- 7. PriorityQueue
-- 8. ArrayDeque
+## Queue
+6. Queue
+7. PriorityQueue
+8. ArrayDeque
 
-Map 
+## Map 
 9. HashMap
 10. TreeMap
 11. LinkedHashMap
 
-Set 
+## Set 
 12. HashSet
 13. TreeSet
 14. LinkedHashSet
 15. EnumSet
 
-Tree 
+## Tree 
 16. BST
 17. Heap
 18. Trie
 
-Graph 
+## Graph 
 19. Graph
 
 
